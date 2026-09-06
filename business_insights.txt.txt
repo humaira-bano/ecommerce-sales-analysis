@@ -1,0 +1,28 @@
+E-COMMERCE SALES ANALYSIS
+BUSINESS INSIGHTS
+
+1. Total Revenue
+The business generated a total revenue of ₹1,40,600 from 8 orders during the analysis period.
+
+2. Headphones and Running Shoes were the top-selling products by quantity, with 3 units sold each.
+
+3. Highest Revenue Product
+Laptop generated the highest revenue among all products, with ₹1,10,000 in revenue.
+
+4. Best-Performing Category
+Electronics was the best-performing category, generating higher sales than Fashion.
+
+5. Top Customer
+Rahul Sharma was the highest-spending customer, with total spending of ₹62,500.
+s
+6. Monthly Sales
+The business received 6 orders in January and 2 orders in February.
+
+7. Repeat Customers
+Rahul Sharma, Priya Singh, and Aman Khan placed more than one order during the analysis period.
+
+8. Average Order Value
+The average order value was ₹17,575 per order.
+
+9. Business Recommendation
+The business should focus on high-revenue Electronics products while encouraging repeat purchases from existing customerss.
